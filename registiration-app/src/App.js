@@ -22,6 +22,7 @@ function App() {
         console.log(response)
     })
     }
+    // console.log(id);
   }
 
   return (
